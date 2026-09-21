@@ -1,7 +1,5 @@
 package app;
-
 import javax.swing.SwingUtilities;
-
 import app.Vista.VentanaPrincipal;
 
 public class Main {

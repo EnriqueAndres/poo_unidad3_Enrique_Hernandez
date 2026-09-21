@@ -37,7 +37,7 @@ public class VentanaRegistroPedido extends JFrame{
             String direccion = campoDireccion.getText().trim();
             String tipoPedido = (String) comboTipo.getSelectedItem();
             
-           // validar datos
+           // validar id
            int id;
             try {
                 id = Integer.parseInt(strID);

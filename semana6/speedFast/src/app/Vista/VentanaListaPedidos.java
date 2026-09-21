@@ -36,6 +36,7 @@ public class VentanaListaPedidos extends JFrame{
         cargarDatosTabla();
     }
 
+    //recargar datos al ingresar uno nuevo
     public void cargarDatosTabla() {
         modeloTabla.setRowCount(0);
         for (Pedido p : controlador.getListaPedidos()) {

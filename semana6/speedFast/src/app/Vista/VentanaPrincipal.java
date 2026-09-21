@@ -34,7 +34,7 @@ public class VentanaPrincipal extends JFrame{
 
         btnSimular.addActionListener(e -> {
             JOptionPane.showMessageDialog(this, 
-                "Repartidores asignados e inicio de entregas simulado correctamente.", 
+                "Repartidores asignados e inicio de entregas...", 
                 "SpeedFast", JOptionPane.INFORMATION_MESSAGE);
         });
 
