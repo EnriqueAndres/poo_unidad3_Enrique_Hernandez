@@ -1,0 +1,25 @@
+# Archivos compilados y de salida de Maven
+target/
+*.class
+
+.vscode/
+*.code-workspace
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+*.tmp
+
+# Archivos de logs
+*.log
