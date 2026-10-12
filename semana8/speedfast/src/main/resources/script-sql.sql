@@ -29,9 +29,9 @@ CREATE TABLE entrega (
 
 
 INSERT INTO repartidor (nombre) VALUES 
-('Enrique Hernandez'),
+('Enrique Hernández'),
 ('Pilar Godoy'),
-('Pepito Barria');
+('Pepito Barría');
 
 INSERT INTO pedido (direccion, tipo, estado) VALUES 
 ('Av. Providencia 1234, Depto 502', 'COMIDA', 'ENTREGADO'),
